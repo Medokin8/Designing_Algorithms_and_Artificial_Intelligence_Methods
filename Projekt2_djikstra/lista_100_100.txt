@@ -1,0 +1,102 @@
+1.    (waga : droga)  8 : 61 55 1 51 95                        czas[us]:   3997
+2.    (waga : droga)  5 : 12 19 73 81                        czas[us]:   3994
+3.    (waga : droga)  7 : 21 87 15 62 47 73 96                        czas[us]:   3998
+4.    (waga : droga)  13 : 41 10 39 48 55 1                        czas[us]:   3997
+5.    (waga : droga)  8 : 61 74 96 58 44                        czas[us]:   2998
+6.    (waga : droga)  6 : 57 86 48 78                        czas[us]:   2999
+7.    (waga : droga)  10 : 98 24 63 11 35                        czas[us]:   2998
+8.    (waga : droga)  13 : 69 39 21 94                        czas[us]:   3997
+9.    (waga : droga)  5 : 25 84 62 28 83                        czas[us]:   3997
+10.    (waga : droga)  5 : 43 92 35 17 96                        czas[us]:   3639
+11.    (waga : droga)  6 : 81 27 37 55                        czas[us]:   2998
+12.    (waga : droga)  5 : 7 90 22 63 24                        czas[us]:   3997
+13.    (waga : droga)  8 : 73 99 87 42 29                        czas[us]:   3996
+14.    (waga : droga)  8 : 15 73 62 87 57 32                        czas[us]:   2998
+15.    (waga : droga)  5 : 44 84 50                        czas[us]:   2998
+16.    (waga : droga)  4 : 59 97 12                        czas[us]:   2998
+17.    (waga : droga)  8 : 52 92 56 35 34                        czas[us]:   2998
+18.    (waga : droga)  7 : 19 54 79 33                        czas[us]:   2997
+19.    (waga : droga)  10 : 60 53 69 65                        czas[us]:   3997
+20.    (waga : droga)  4 : 97 48 33                        czas[us]:   3998
+21.    (waga : droga)  6 : 75 86 5 97                        czas[us]:   3998
+22.    (waga : droga)  7 : 47 22 10 74                        czas[us]:   2998
+23.    (waga : droga)  4 : 31 80 3                        czas[us]:   3997
+24.    (waga : droga)  6 : 58 95 73 18 93                        czas[us]:   2998
+25.    (waga : droga)  7 : 91 93 57                        czas[us]:   2998
+26.    (waga : droga)  5 : 72 58 91 25 71                        czas[us]:   3998
+27.    (waga : droga)  8 : 20 75 48 4 45                        czas[us]:   3998
+28.    (waga : droga)  9 : 95 44 49 14 99 40 70 1                        czas[us]:   2998
+29.    (waga : droga)  7 : 80 15 94 75 79                        czas[us]:   3995
+30.    (waga : droga)  2 : 17 92                        czas[us]:   2999
+31.    (waga : droga)  5 : 21 17 90 14                        czas[us]:   2998
+32.    (waga : droga)  3 : 68 90 52                        czas[us]:   2998
+33.    (waga : droga)  6 : 92 91 46 30                        czas[us]:   2998
+34.    (waga : droga)  3 : 62 85                        czas[us]:   2998
+35.    (waga : droga)  5 : 9 91 33 10                        czas[us]:   2999
+36.    (waga : droga)  11 : 0 27 59 89 14 32                        czas[us]:   3996
+37.    (waga : droga)  6 : 38 14 13 93 28                        czas[us]:   2999
+38.    (waga : droga)  2 : 93 8                        czas[us]:   2998
+39.    (waga : droga)  7 : 98 39 32 0 30 84 75                        czas[us]:   3998
+40.    (waga : droga)  10 : 91 57 98 22 59                        czas[us]:   3989
+41.    (waga : droga)  6 : 61 50 10 36                        czas[us]:   2999
+42.    (waga : droga)  6 : 26 96 93 71                        czas[us]:   3998
+43.    (waga : droga)  3 : 31 96                        czas[us]:   3998
+44.    (waga : droga)  4 : 73 52                        czas[us]:   3997
+45.    (waga : droga)  5 : 80 29 32 78                        czas[us]:   2999
+46.    (waga : droga)  11 : 7 43 33 76 24                        czas[us]:   2999
+47.    (waga : droga)  10 : 39 78 26 24                        czas[us]:   4000
+48.    (waga : droga)  7 : 10 15 82                        czas[us]:   3998
+49.    (waga : droga)  10 : 65 25 53 11 60                        czas[us]:   3997
+50.    (waga : droga)  6 : 38 49 36 16 92 78                        czas[us]:   2999
+51.    (waga : droga)  11 : 1 43 31 66                        czas[us]:   2998
+52.    (waga : droga)  2 : 24 18                        czas[us]:   3998
+53.    (waga : droga)  6 : 99 3                        czas[us]:   3998
+54.    (waga : droga)  4 : 81 49 27                        czas[us]:   3998
+55.    (waga : droga)  8 : 34 95 78 28 82                        czas[us]:   4000
+56.    (waga : droga)  8 : 51 35 57 28 50                        czas[us]:   3998
+57.    (waga : droga)  2 : 21 39                        czas[us]:   3998
+58.    (waga : droga)  9 : 66 87 11 14 28                        czas[us]:   3999
+59.    (waga : droga)  7 : 1 41 95 68 4                        czas[us]:   2998
+60.    (waga : droga)  7 : 2 0 99                        czas[us]:   3998
+61.    (waga : droga)  8 : 12 59 64 11 9                        czas[us]:   4997
+62.    (waga : droga)  1 : 67 49                        czas[us]:   2998
+63.    (waga : droga)  5 : 26 65 41                        czas[us]:   3997
+64.    (waga : droga)  7 : 54 85 50 53                        czas[us]:   3997
+65.    (waga : droga)  12 : 53 68 26 87                        czas[us]:   4000
+66.    (waga : droga)  8 : 24 26 71 68                        czas[us]:   2999
+67.    (waga : droga)  7 : 94 14                        czas[us]:   2992
+68.    (waga : droga)  10 : 73 86 85                        czas[us]:   2998
+69.    (waga : droga)  3 : 26 38 52                        czas[us]:   3998
+70.    (waga : droga)  4 : 87 68 22                        czas[us]:   3997
+71.    (waga : droga)  11 : 82 76 29 21 92 81                        czas[us]:   2998
+72.    (waga : droga)  5 : 29 36 64                        czas[us]:   2998
+73.    (waga : droga)  8 : 0 85 65 22 36 53                        czas[us]:   3999
+74.    (waga : droga)  6 : 78 42 11 44 12                        czas[us]:   2996
+75.    (waga : droga)  7 : 53 35 5 2                        czas[us]:   3000
+76.    (waga : droga)  7 : 88 41 24                        czas[us]:   3997
+77.    (waga : droga)  8 : 55 60 28 5 10 38                        czas[us]:   3998
+78.    (waga : droga)  11 : 40 29 67 3                        czas[us]:   2998
+79.    (waga : droga)  9 : 41 27 63 22                        czas[us]:   4996
+80.    (waga : droga)  6 : 76 82 62 64 94 14                        czas[us]:   3997
+81.    (waga : droga)  8 : 24 11 82 58 84                        czas[us]:   4996
+82.    (waga : droga)  10 : 55 73 57 54 42 60                        czas[us]:   2997
+83.    (waga : droga)  7 : 32 20 2 74 80                        czas[us]:   3998
+84.    (waga : droga)  6 : 6 42 86 56                        czas[us]:   3997
+85.    (waga : droga)  8 : 59 56 61 70 85                        czas[us]:   3000
+86.    (waga : droga)  10 : 33 92 46                        czas[us]:   3000
+87.    (waga : droga)  8 : 62 91 74 42 63 55                        czas[us]:   3997
+88.    (waga : droga)  7 : 50 91 64                        czas[us]:   2998
+89.    (waga : droga)  5 : 61 40 33 78 15                        czas[us]:   2996
+90.    (waga : droga)  11 : 55 22 64 38 70                        czas[us]:   3997
+91.    (waga : droga)  8 : 56 82 64 51 96                        czas[us]:   2998
+92.    (waga : droga)  5 : 64 4 98                        czas[us]:   3998
+93.    (waga : droga)  5 : 6 97 8                        czas[us]:   2998
+94.    (waga : droga)  11 : 29 48 17 66 31 50                        czas[us]:   3999
+95.    (waga : droga)  8 : 66 5 12 10 77                        czas[us]:   3998
+96.    (waga : droga)  6 : 71 58 19 81                        czas[us]:   2998
+97.    (waga : droga)  7 : 50 53 68 45                        czas[us]:   3997
+98.    (waga : droga)  6 : 60 47 63                        czas[us]:   2998
+99.    (waga : droga)  2 : 10 11                        czas[us]:   2994
+100.    (waga : droga)  10 : 33 84 93 9 78 63 32                        czas[us]:   2999
+
+    sredni czas[us]:   3554

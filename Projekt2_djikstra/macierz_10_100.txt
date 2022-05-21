@@ -1,0 +1,102 @@
+1.    (waga : droga)  2 : 7 0                        czas[us]:   0
+2.    (waga : droga)  1 : 8 5                        czas[us]:   0
+3.    (waga : droga)  6 : 3 8 0                        czas[us]:   0
+4.    (waga : droga)  1 : 6 7                        czas[us]:   0
+5.    (waga : droga)  3 : 4 7                        czas[us]:   0
+6.    (waga : droga)  1 : 2 3                        czas[us]:   0
+7.    (waga : droga)  1 : 3 4                        czas[us]:   0
+8.    (waga : droga)  6 : 6 0 2                        czas[us]:   0
+9.    (waga : droga)  5 : 0 9 5                        czas[us]:   0
+10.    (waga : droga)  4 : 7 3                        czas[us]:   0
+11.    (waga : droga)  6 : 3 4                        czas[us]:   0
+12.    (waga : droga)  6 : 7 8 6                        czas[us]:   0
+13.    (waga : droga)  1 : 8 6                        czas[us]:   0
+14.    (waga : droga)  6 : 0 3 6                        czas[us]:   0
+15.    (waga : droga)  2 : 1 8                        czas[us]:   0
+16.    (waga : droga)  7 : 1 2 4                        czas[us]:   0
+17.    (waga : droga)  8 : 8 3 9                        czas[us]:   0
+18.    (waga : droga)  5 : 0 8 3                        czas[us]:   0
+19.    (waga : droga)  6 : 1 6                        czas[us]:   0
+20.    (waga : droga)  6 : 1 8                        czas[us]:   0
+21.    (waga : droga)  3 : 9 4 5                        czas[us]:   0
+22.    (waga : droga)  4 : 0 1 6                        czas[us]:   0
+23.    (waga : droga)  7 : 7 9 6                        czas[us]:   0
+24.    (waga : droga)  3 : 4 8 3                        czas[us]:   0
+25.    (waga : droga)  4 : 1 6 3 8                        czas[us]:   0
+26.    (waga : droga)  5 : 5 4                        czas[us]:   0
+27.    (waga : droga)  5 : 2 9                        czas[us]:   0
+28.    (waga : droga)  5 : 4 6 0 7                        czas[us]:   0
+29.    (waga : droga)  7 : 0 5 6 1                        czas[us]:   0
+30.    (waga : droga)  4 : 9 7 5                        czas[us]:   0
+31.    (waga : droga)  2 : 3 0 5                        czas[us]:   0
+32.    (waga : droga)  4 : 2 5                        czas[us]:   0
+33.    (waga : droga)  6 : 3 0                        czas[us]:   0
+34.    (waga : droga)  1 : 6 0                        czas[us]:   0
+35.    (waga : droga)  5 : 9 3 4                        czas[us]:   0
+36.    (waga : droga)  3 : 6 7 4                        czas[us]:   0
+37.    (waga : droga)  4 : 0 5 3 9                        czas[us]:   0
+38.    (waga : droga)  6 : 2 1 9 6                        czas[us]:   0
+39.    (waga : droga)  3 : 5 3                        czas[us]:   0
+40.    (waga : droga)  3 : 5 0 8                        czas[us]:   0
+41.    (waga : droga)  5 : 9 3                        czas[us]:   0
+42.    (waga : droga)  7 : 8 7                        czas[us]:   0
+43.    (waga : droga)  7 : 7 1 4                        czas[us]:   0
+44.    (waga : droga)  5 : 5 4 1                        czas[us]:   0
+45.    (waga : droga)  4 : 1 2                        czas[us]:   0
+46.    (waga : droga)  1 : 5 9                        czas[us]:   0
+47.    (waga : droga)  4 : 6 2 4                        czas[us]:   0
+48.    (waga : droga)  4 : 2 8 0 3                        czas[us]:   1000
+49.    (waga : droga)  4 : 7 4                        czas[us]:   0
+50.    (waga : droga)  4 : 8 4 1 3                        czas[us]:   0
+51.    (waga : droga)  3 : 4 8                        czas[us]:   0
+52.    (waga : droga)  2 : 9 6 4                        czas[us]:   0
+53.    (waga : droga)  2 : 5 8 0                        czas[us]:   0
+54.    (waga : droga)  3 : 9 1 4                        czas[us]:   0
+55.    (waga : droga)  3 : 1 9 2 3                        czas[us]:   0
+56.    (waga : droga)  5 : 6 8 9                        czas[us]:   0
+57.    (waga : droga)  5 : 0 7 2                        czas[us]:   0
+58.    (waga : droga)  4 : 0 5                        czas[us]:   0
+59.    (waga : droga)  3 : 7 6                        czas[us]:   146
+60.    (waga : droga)  2 : 9 2                        czas[us]:   0
+61.    (waga : droga)  6 : 2 5 9                        czas[us]:   0
+62.    (waga : droga)  3 : 4 1 0                        czas[us]:   0
+63.    (waga : droga)  2 : 3 4                        czas[us]:   0
+64.    (waga : droga)  2 : 6 3                        czas[us]:   0
+65.    (waga : droga)  2 : 9 4                        czas[us]:   0
+66.    (waga : droga)  4 : 3 0                        czas[us]:   0
+67.    (waga : droga)  4 : 0 2                        czas[us]:   0
+68.    (waga : droga)  4 : 4 0 1                        czas[us]:   0
+69.    (waga : droga)  2 : 4 9                        czas[us]:   0
+70.    (waga : droga)  3 : 7 8 4                        czas[us]:   0
+71.    (waga : droga)  6 : 1 0                        czas[us]:   0
+72.    (waga : droga)  1 : 5 7                        czas[us]:   0
+73.    (waga : droga)  3 : 0 3 5                        czas[us]:   0
+74.    (waga : droga)  4 : 2 9 1                        czas[us]:   0
+75.    (waga : droga)  4 : 9 0                        czas[us]:   0
+76.    (waga : droga)  5 : 9 5 0                        czas[us]:   0
+77.    (waga : droga)  3 : 2 8                        czas[us]:   0
+78.    (waga : droga)  5 : 7 0 9 3                        czas[us]:   0
+79.    (waga : droga)  3 : 4 9 0 5                        czas[us]:   0
+80.    (waga : droga)  3 : 9 6 7                        czas[us]:   0
+81.    (waga : droga)  4 : 3 8 6 9                        czas[us]:   0
+82.    (waga : droga)  6 : 6 1 2                        czas[us]:   0
+83.    (waga : droga)  4 : 9 0 7                        czas[us]:   0
+84.    (waga : droga)  2 : 5 1                        czas[us]:   0
+85.    (waga : droga)  4 : 3 4 9                        czas[us]:   0
+86.    (waga : droga)  5 : 2 3 8                        czas[us]:   0
+87.    (waga : droga)  6 : 0 7 1                        czas[us]:   0
+88.    (waga : droga)  3 : 4 2 8                        czas[us]:   0
+89.    (waga : droga)  5 : 6 5 2 0                        czas[us]:   0
+90.    (waga : droga)  3 : 9 7 5                        czas[us]:   0
+91.    (waga : droga)  3 : 7 4                        czas[us]:   0
+92.    (waga : droga)  4 : 3 9                        czas[us]:   0
+93.    (waga : droga)  7 : 1 8                        czas[us]:   0
+94.    (waga : droga)  4 : 6 4 9                        czas[us]:   0
+95.    (waga : droga)  5 : 1 8                        czas[us]:   0
+96.    (waga : droga)  6 : 6 4                        czas[us]:   0
+97.    (waga : droga)  5 : 3 8                        czas[us]:   0
+98.    (waga : droga)  4 : 9 5 7                        czas[us]:   0
+99.    (waga : droga)  1 : 4 2                        czas[us]:   0
+100.    (waga : droga)  3 : 4 2                        czas[us]:   0
+
+    sredni czas[us]:   11
